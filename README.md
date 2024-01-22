@@ -1,8 +1,15 @@
 # libft-42
 
-[![rps+ logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/42_Logo.svg/150px-42_Logo.svg.png
+
+<center>
+
+[![42 logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/42_Logo.svg/150px-42_Logo.svg.png
 )](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/42_Logo.svg/150px-42_Logo.svg.png
 )
+</center>
+
+
+
 
 
 # :question: What is this project
