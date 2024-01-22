@@ -21,9 +21,13 @@
  # :book: About library
  If you manage the enter the globally known software school named 42 schools, this is the first task you need to complete. You need to write 42 core C language functions. This is very educational and challenging task to complete, yet so rewardful. Here is the full list of functions this library contains
 
-:white_check_mark: atoi                     :white_check_mark: bzero
+:white_check_mark: atoi
 
-:white_check_mark: calloc                   :white_check_mark: isalnum
+:white_check_mark: bzero
+
+:white_check_mark: calloc
+
+:white_check_mark: isalnum
 
 :white_check_mark: isalpha
 
