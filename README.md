@@ -18,7 +18,7 @@
  # :question: Which language and libraries used for this project
  This project developed using C language and makefile.
 
- # :video_game: About library
+ # :book: About library
  If you manage the enter the globally known software school named 42 schools, this is the first task you need to complete. You need to write 42 core C language functions. This is very educational and challenging task to complete, yet so rewardful. Here is the full list of functions this library contains
 
 :white_check_mark: atoi
